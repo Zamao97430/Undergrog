@@ -11,7 +11,7 @@ import asyncio
 # -------------------------------
 
 TOKEN = os.environ['DISCORD_TOKEN']
-GUILD_ID = 123456789012345678  # Remplace par l'ID de ton serveur Discord
+GUILD_ID = 1094757085360685067  # Remplace par l'ID de ton serveur Discord
 SETS = ["Set 1", "Set 2", "Set 3", "Set 4"]
 ARENAS = [
     "Lagoon of Whispers",
